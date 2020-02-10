@@ -8,7 +8,6 @@ import com.sms.entities.StudentModel;
 public class StudentDAOImpl implements GenericDAO<StudentModel>{
 
 	
-	
 	@Override
 	public void createOrUpdate(StudentModel entity) {
 		// TODO Auto-generated method stub
